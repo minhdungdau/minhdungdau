@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minhdungdau
 - 👀 I’m interested in code, logic, game, music and travel
-- 🌱 I’m currently learning React
+- 🌱 I’m currently using Angular with over 1.5 year experience
 - 💞️ I’m looking to collaborate on Front-end
 - 📫 How to reach me:
   facebook: https://www.facebook.com/amazing.dream/
