@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-end
 - 📫 How to reach me:
   facebook: https://www.facebook.com/amazing.dream/
-  phone: +84 367-422-898
+  phone: +84367422898
 
 <!---
 minhdungdau/minhdungdau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
